@@ -1,0 +1,75 @@
+[
+    {
+      "course_id": "C101",
+      "course_name": "Introduction to C Programming",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "image_url": "https://intellipaat.com/wp-content/uploads/2015/12/c-features.png",
+      "price": 199.99,
+      "credit_hours": 3
+    },
+    {
+      "course_id": "C102",
+      "course_name": "Introduction to Algorithms",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "image_url": "https://static1.eboighar.com/thumbimages/Books/book_84082022-10-29_1667026992.jpg",
+      "price": 249.99,
+      "credit_hours": 4
+    },
+    {
+      "course_id": "M201",
+      "course_name": "Introduction to C++ for DSA",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "image_url": "https://i.ytimg.com/vi/JvuaAgDar1c/sddefault.jpg",
+      "price": 179.99,
+      "credit_hours": 4
+    },
+    {
+      "course_id": "M202",
+      "course_name": "Basic Data Structures",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHjS1O4N5Pu1Ac8g4wg-SvBcLScjWhO4LunQ&usqp=CAU",
+      "price": 219.99,
+      "credit_hours": 3
+    },
+    {
+      "course_id": "B301",
+      "course_name": "Introduction to OOP Python",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJYFQx6tmw5IrJe5WuxaVyLMwNQncjr-DBIw&usqp=CAU",
+      "price": 299.99,
+      "credit_hours": 4
+    },
+    {
+      "course_id": "E101",
+      "course_name": "Software Engineering",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYpY3b55xoRlgtjuvL2MeBgfC_VXxxLiWPzg&usqp=CAU",
+      "price": 149.99,
+      "credit_hours": 3
+    },
+    {
+      "course_id": "H201",
+      "course_name": "AWS, Cloud Computing",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoL_sPfs0aD8UAqDGLpjoKbvDxNLaziXH-Pg&usqp=CAU",
+      "price": 199.99,
+      "credit_hours": 3
+    },
+    {
+      "course_id": "P101",
+      "course_name": "Database (MySQL)",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAvNqyDGdcommZE7Egwt4olVi1_ec9vtbg2g&usqp=CAU",
+      "price": 169.99,
+      "credit_hours": 3
+    },
+    {
+      "course_id": "A101",
+      "course_name": "Problem-Solving Part",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxq8YSB-lAuOgaHV3HyzFL1oVCkan-4WqidA&usqp=CAU",
+      "price": 129.99,
+      "credit_hours": 2
+    }
+  ]
+  
